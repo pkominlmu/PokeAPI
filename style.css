@@ -1,0 +1,59 @@
+html,
+body {
+  background-color: darkgray;
+}
+
+h1 {
+  text-align: center;
+  font-family: Impact;
+  color: white;
+  text-shadow: black -1px 2px;
+  background-color: crimson;
+  padding: 10px;
+  margin-top: -10px;
+  margin-left: -20px;
+  margin-right: -20px;
+}
+
+li {
+  font-size: 150%;
+  font-family: Helvetica;
+  padding: 5px;
+  font-style: italic;
+  background-color: lightgray;
+  margin-left: 0px;
+  margin-right: 50px;
+}
+
+img {
+  display: block;
+  margin-top: -200px;
+  transform: scale(1.45);
+  margin-left: auto;
+  margin-right: auto;
+  background-color: cyan;
+}
+
+p1 {
+  display: block;
+  text-align: center;
+  font-family: Consolas;
+  font-size: 125%;
+  background-color: lightgreen;
+  padding: 10px;
+  margin-top: 0px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+p2 {
+  display: block;
+  text-align: center;
+  font-family: Consolas;
+  font-size: 125%;
+  background-color: lightgreen;
+  padding: 10px;
+  margin-top: 22px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
